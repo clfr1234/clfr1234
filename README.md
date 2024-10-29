@@ -2,7 +2,6 @@
 # MY CATEGORY
 
 <a href="https://www.notion.so/f6aad20013564195b080ddc97f469e7f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://www.instagram.com/h4nz1._.0815/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <br>
 <br>
 <br>
